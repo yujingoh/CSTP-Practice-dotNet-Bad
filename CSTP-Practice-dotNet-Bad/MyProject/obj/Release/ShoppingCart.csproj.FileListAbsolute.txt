@@ -1,0 +1,15 @@
+C:\CSTP\CSTP-Practice-dotNet-Bad\MyProject\bin\ShoppingCart.dll.config
+C:\CSTP\CSTP-Practice-dotNet-Bad\MyProject\bin\ShoppingCart.dll
+C:\CSTP\CSTP-Practice-dotNet-Bad\MyProject\bin\ShoppingCart.pdb
+C:\CSTP\CSTP-Practice-dotNet-Bad\MyProject\obj\Release\ShoppingCart.dll
+C:\CSTP\CSTP-Practice-dotNet-Bad\MyProject\obj\Release\ShoppingCart.pdb
+C:\Users\user\Desktop\CSTP\CSTP-Practice-dotNet-Bad\MyProject\bin\ShoppingCart.dll.config
+C:\Users\user\Desktop\CSTP\CSTP-Practice-dotNet-Bad\MyProject\bin\ShoppingCart.dll
+C:\Users\user\Desktop\CSTP\CSTP-Practice-dotNet-Bad\MyProject\bin\ShoppingCart.pdb
+C:\Users\user\Desktop\CSTP\CSTP-Practice-dotNet-Bad\MyProject\obj\Release\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CSTP\CSTP-Practice-dotNet-Bad\MyProject\obj\Release\ShoppingCart.dll
+C:\Users\user\Desktop\CSTP\CSTP-Practice-dotNet-Bad\MyProject\obj\Release\ShoppingCart.pdb
+C:\Users\user\Desktop\CSTP\CSTP-Practice-dotNet-Bad\MyProject\obj\Release\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\CSTP\CSTP-Practice-dotNet-Bad\MyProject\obj\Release\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\CSTP\CSTP-Practice-dotNet-Bad\MyProject\bin\ShoppingCart.dll.CodeAnalysisLog.xml
+C:\CSTP\CSTP-Practice-dotNet-Bad\MyProject\bin\ShoppingCart.dll.lastcodeanalysissucceeded
